@@ -42,6 +42,20 @@ Grenaprompt = hybrid language
 FGP = governance, stabilization, and audit framework around that language
 ```
 
+## Gibberlink Layer
+
+Gibberlink is the compact symbolic state language used for `.glg` state, vectors, flux and priority representations.
+
+- [Gibberlink Foundational Whitepaper](docs/GIBBERLINK_FOUNDATIONAL_WHITEPAPER.md)
+- [Gibberlink Glossary](docs/GIBBERLINK_GLOSSARY.md)
+
+Core foundation:
+
+```text
+Gibberlink = symbolic compact state
+Gibberlink = vectors + energy_flux + priority
+```
+
 ## Glossary
 
 Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
@@ -53,6 +67,8 @@ Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
 - Grenaprompt foundational material
 - FGP governance material
 - Grenaprompt glossary and terminology
+- Gibberlink foundational material
+- Gibberlink glossary and terminology
 - GrenapromptLinked (`.gpl`) reference material
 - Gibberlink / GL_G (`.glg`) reference material
 - white paper material
@@ -63,7 +79,9 @@ Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
 
 - Foundational whitepaper: `docs/GRENAPROMPT_FOUNDATIONAL_WHITEPAPER.md`
 - FGP framework: `docs/FGP_FRAMEWORK_GRENAPROMPT.md`
-- Glossary: `docs/GRENAPROMPT_GLOSSARY.md`
+- Grenaprompt glossary: `docs/GRENAPROMPT_GLOSSARY.md`
+- Gibberlink foundational whitepaper: `docs/GIBBERLINK_FOUNDATIONAL_WHITEPAPER.md`
+- Gibberlink glossary: `docs/GIBBERLINK_GLOSSARY.md`
 - White paper PDF: `whitepaper/WHITE_PAPER_GRENAPROMPTLINKED_v1_Sciences_DeepDive.pdf`
 - GL specification: `spec/grenapromptlinked.gpl`
 - Backend cognitive protocol: `api/protocol.glg`
