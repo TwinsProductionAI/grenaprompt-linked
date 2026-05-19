@@ -56,6 +56,20 @@ Gibberlink = symbolic compact state
 Gibberlink = vectors + energy_flux + priority
 ```
 
+## Gibberlink_Glyph Layer
+
+Gibberlink_Glyph is the optional glyph and phonetic bridge above Gibberlink.
+
+- [Gibberlink_Glyph Foundational Note](docs/GIBBERLINK_GLYPH_FOUNDATIONAL_NOTE.md)
+- [Gibberlink_Glyph Glossary](docs/GIBBERLINK_GLYPH_GLOSSARY.md)
+
+Core distinction:
+
+```text
+Gibberlink = symbolic compact state
+Gibberlink_Glyph = optional glyph / phonetic bridge
+```
+
 ## Glossary
 
 Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
@@ -69,6 +83,8 @@ Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
 - Grenaprompt glossary and terminology
 - Gibberlink foundational material
 - Gibberlink glossary and terminology
+- Gibberlink_Glyph foundational material
+- Gibberlink_Glyph glossary and terminology
 - GrenapromptLinked (`.gpl`) reference material
 - Gibberlink / GL_G (`.glg`) reference material
 - white paper material
@@ -82,6 +98,8 @@ Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
 - Grenaprompt glossary: `docs/GRENAPROMPT_GLOSSARY.md`
 - Gibberlink foundational whitepaper: `docs/GIBBERLINK_FOUNDATIONAL_WHITEPAPER.md`
 - Gibberlink glossary: `docs/GIBBERLINK_GLOSSARY.md`
+- Gibberlink_Glyph foundational note: `docs/GIBBERLINK_GLYPH_FOUNDATIONAL_NOTE.md`
+- Gibberlink_Glyph glossary: `docs/GIBBERLINK_GLYPH_GLOSSARY.md`
 - White paper PDF: `whitepaper/WHITE_PAPER_GRENAPROMPTLINKED_v1_Sciences_DeepDive.pdf`
 - GL specification: `spec/grenapromptlinked.gpl`
 - Backend cognitive protocol: `api/protocol.glg`
