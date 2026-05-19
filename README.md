@@ -14,8 +14,24 @@ Read this when you want to understand the symbolic transport layer behind ORA Co
 
 Recommended public slug: `grenaprompt-linked`.
 
+## Foundational Grenaprompt Layer
+
+Start here for the base definition of Grenaprompt before reading the later protocol layers:
+
+- [Grenaprompt Foundational Whitepaper](docs/GRENAPROMPT_FOUNDATIONAL_WHITEPAPER.md)
+
+Core foundation:
+
+```text
+Grenaprompt = JSON + EN + FR
+JSON = structural container
+EN = technical precision
+FR = emotion, intention, and human context
+```
+
 ## Scope
 
+- Grenaprompt foundational material
 - GrenapromptLinked (`.gpl`) reference material
 - Gibberlink / GL_G (`.glg`) reference material
 - white paper material
@@ -24,6 +40,7 @@ Recommended public slug: `grenaprompt-linked`.
 
 ## Main Files
 
+- Foundational whitepaper: `docs/GRENAPROMPT_FOUNDATIONAL_WHITEPAPER.md`
 - White paper PDF: `whitepaper/WHITE_PAPER_GRENAPROMPTLINKED_v1_Sciences_DeepDive.pdf`
 - GL specification: `spec/grenapromptlinked.gpl`
 - Backend cognitive protocol: `api/protocol.glg`
