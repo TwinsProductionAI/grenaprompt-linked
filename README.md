@@ -29,9 +29,23 @@ EN = technical precision
 FR = emotion, intention, and human context
 ```
 
+## FGP Governance Layer
+
+The FGP, or Framework GrenaPrompt, is the governance framework around Grenaprompt.
+
+- [FGP Framework GrenaPrompt](docs/FGP_FRAMEWORK_GRENAPROMPT.md)
+
+Core distinction:
+
+```text
+Grenaprompt = hybrid language
+FGP = governance, stabilization, and audit framework around that language
+```
+
 ## Scope
 
 - Grenaprompt foundational material
+- FGP governance material
 - GrenapromptLinked (`.gpl`) reference material
 - Gibberlink / GL_G (`.glg`) reference material
 - white paper material
@@ -41,6 +55,7 @@ FR = emotion, intention, and human context
 ## Main Files
 
 - Foundational whitepaper: `docs/GRENAPROMPT_FOUNDATIONAL_WHITEPAPER.md`
+- FGP framework: `docs/FGP_FRAMEWORK_GRENAPROMPT.md`
 - White paper PDF: `whitepaper/WHITE_PAPER_GRENAPROMPTLINKED_v1_Sciences_DeepDive.pdf`
 - GL specification: `spec/grenapromptlinked.gpl`
 - Backend cognitive protocol: `api/protocol.glg`
