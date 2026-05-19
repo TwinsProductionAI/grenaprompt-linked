@@ -42,10 +42,17 @@ Grenaprompt = hybrid language
 FGP = governance, stabilization, and audit framework around that language
 ```
 
+## Glossary
+
+Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
+
+- [Grenaprompt Glossary](docs/GRENAPROMPT_GLOSSARY.md)
+
 ## Scope
 
 - Grenaprompt foundational material
 - FGP governance material
+- Grenaprompt glossary and terminology
 - GrenapromptLinked (`.gpl`) reference material
 - Gibberlink / GL_G (`.glg`) reference material
 - white paper material
@@ -56,6 +63,7 @@ FGP = governance, stabilization, and audit framework around that language
 
 - Foundational whitepaper: `docs/GRENAPROMPT_FOUNDATIONAL_WHITEPAPER.md`
 - FGP framework: `docs/FGP_FRAMEWORK_GRENAPROMPT.md`
+- Glossary: `docs/GRENAPROMPT_GLOSSARY.md`
 - White paper PDF: `whitepaper/WHITE_PAPER_GRENAPROMPTLINKED_v1_Sciences_DeepDive.pdf`
 - GL specification: `spec/grenapromptlinked.gpl`
 - Backend cognitive protocol: `api/protocol.glg`
