@@ -70,6 +70,19 @@ Gibberlink = symbolic compact state
 Gibberlink_Glyph = optional glyph / phonetic bridge
 ```
 
+## GLK Layer
+
+GLK is the canonical key syntax for archive, identity, retrieval and semantic indexing.
+
+- [GLK Foundational Note](docs/GLK_FOUNDATIONAL_NOTE.md)
+
+Core foundation:
+
+```text
+GLK[[TYPE:TAG.INDEX.DATE]]
+GLK = TYPE + TAG + INDEX + DATE
+```
+
 ## Glossary
 
 Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
@@ -85,6 +98,7 @@ Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
 - Gibberlink glossary and terminology
 - Gibberlink_Glyph foundational material
 - Gibberlink_Glyph glossary and terminology
+- GLK canonical key syntax
 - GrenapromptLinked (`.gpl`) reference material
 - Gibberlink / GL_G (`.glg`) reference material
 - white paper material
@@ -100,6 +114,7 @@ Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
 - Gibberlink glossary: `docs/GIBBERLINK_GLOSSARY.md`
 - Gibberlink_Glyph foundational note: `docs/GIBBERLINK_GLYPH_FOUNDATIONAL_NOTE.md`
 - Gibberlink_Glyph glossary: `docs/GIBBERLINK_GLYPH_GLOSSARY.md`
+- GLK foundational note: `docs/GLK_FOUNDATIONAL_NOTE.md`
 - White paper PDF: `whitepaper/WHITE_PAPER_GRENAPROMPTLINKED_v1_Sciences_DeepDive.pdf`
 - GL specification: `spec/grenapromptlinked.gpl`
 - Backend cognitive protocol: `api/protocol.glg`
