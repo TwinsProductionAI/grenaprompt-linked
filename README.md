@@ -65,6 +65,22 @@ GPL contractualizes.
 
 GPL is not the GNU General Public License. In this repository, GPL means GrenapromptLinked execution contract.
 
+## GPL Training Path
+
+Use this path to teach GPL progressively:
+
+1. [GPL training curriculum](docs/GPL_TRAINING_CURRICULUM.md)
+2. [Level 1 - Read GPL](docs/GPL_TRAINING_LEVEL_1_READ.md)
+3. [Level 2 - Write GPL](docs/GPL_TRAINING_LEVEL_2_WRITE.md)
+4. [Level 3 - Compile GPL](docs/GPL_TRAINING_LEVEL_3_COMPILE.md)
+5. [GPL training exercises v1](examples/gpl_training_exercises_v1.md)
+
+Training progression:
+
+```text
+Read -> Write -> Compile -> Review
+```
+
 ## Gibberlink Layer
 
 Gibberlink is the compact symbolic state language used for `.glg` state, vectors, flux and priority representations.
@@ -119,6 +135,7 @@ Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
 - FGP governance material
 - Grenaprompt glossary and terminology
 - GPL execution-contract documentation
+- GPL training curriculum and exercises
 - GPL professional examples and validation checklist
 - Gibberlink foundational material
 - Gibberlink glossary and terminology
@@ -141,6 +158,11 @@ Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
 - Grenaprompt + FGP + GPL example: `docs/GRENAPROMPT_FGP_GPL_EXAMPLE.md`
 - GPL versus classic prompt: `docs/GPL_VS_CLASSIC_PROMPT.md`
 - GPL validation checklist: `docs/GPL_VALIDATION_CHECKLIST.md`
+- GPL training curriculum: `docs/GPL_TRAINING_CURRICULUM.md`
+- GPL training level 1 read: `docs/GPL_TRAINING_LEVEL_1_READ.md`
+- GPL training level 2 write: `docs/GPL_TRAINING_LEVEL_2_WRITE.md`
+- GPL training level 3 compile: `docs/GPL_TRAINING_LEVEL_3_COMPILE.md`
+- GPL training exercises: `examples/gpl_training_exercises_v1.md`
 - Professional GPL examples: `examples/gpl_professional_examples_v1.md`
 - Gibberlink foundational whitepaper: `docs/GIBBERLINK_FOUNDATIONAL_WHITEPAPER.md`
 - Gibberlink glossary: `docs/GIBBERLINK_GLOSSARY.md`
