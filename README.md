@@ -12,8 +12,6 @@ Read this when you want to understand the symbolic transport layer behind ORA Co
 | ---: | --- |
 | 5 | GL/GPL/GL_G language and protocol repository. |
 
-Recommended public slug: `grenaprompt-linked`.
-
 ## Foundational Grenaprompt Layer
 
 Start here for the base definition of Grenaprompt before reading the later protocol layers:
