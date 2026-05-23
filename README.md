@@ -42,6 +42,29 @@ Grenaprompt = hybrid language
 FGP = governance, stabilization, and audit framework around that language
 ```
 
+## GPL Execution Contract Layer
+
+GPL, or GrenapromptLinked, is the routable execution-contract layer derived from a governed request.
+
+Start here for the public GPL documentation path:
+
+1. [GPL in 5 minutes](docs/GPL_IN_5_MINUTES.md)
+2. [GPL glossary](docs/GPL_GLOSSARY.md)
+3. [Grenaprompt + FGP + GPL example](docs/GRENAPROMPT_FGP_GPL_EXAMPLE.md)
+4. [GPL versus classic prompt](docs/GPL_VS_CLASSIC_PROMPT.md)
+5. [GPL validation checklist](docs/GPL_VALIDATION_CHECKLIST.md)
+6. [Professional GPL examples v1](examples/gpl_professional_examples_v1.md)
+
+Core distinction:
+
+```text
+Grenaprompt understands.
+FGP governs.
+GPL contractualizes.
+```
+
+GPL is not the GNU General Public License. In this repository, GPL means GrenapromptLinked execution contract.
+
 ## Gibberlink Layer
 
 Gibberlink is the compact symbolic state language used for `.glg` state, vectors, flux and priority representations.
@@ -88,12 +111,15 @@ GLK = TYPE + TAG + INDEX + DATE
 Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
 
 - [Grenaprompt Glossary](docs/GRENAPROMPT_GLOSSARY.md)
+- [GPL Glossary](docs/GPL_GLOSSARY.md)
 
 ## Scope
 
 - Grenaprompt foundational material
 - FGP governance material
 - Grenaprompt glossary and terminology
+- GPL execution-contract documentation
+- GPL professional examples and validation checklist
 - Gibberlink foundational material
 - Gibberlink glossary and terminology
 - Gibberlink_Glyph foundational material
@@ -110,6 +136,12 @@ Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
 - Foundational whitepaper: `docs/GRENAPROMPT_FOUNDATIONAL_WHITEPAPER.md`
 - FGP framework: `docs/FGP_FRAMEWORK_GRENAPROMPT.md`
 - Grenaprompt glossary: `docs/GRENAPROMPT_GLOSSARY.md`
+- GPL in 5 minutes: `docs/GPL_IN_5_MINUTES.md`
+- GPL glossary: `docs/GPL_GLOSSARY.md`
+- Grenaprompt + FGP + GPL example: `docs/GRENAPROMPT_FGP_GPL_EXAMPLE.md`
+- GPL versus classic prompt: `docs/GPL_VS_CLASSIC_PROMPT.md`
+- GPL validation checklist: `docs/GPL_VALIDATION_CHECKLIST.md`
+- Professional GPL examples: `examples/gpl_professional_examples_v1.md`
 - Gibberlink foundational whitepaper: `docs/GIBBERLINK_FOUNDATIONAL_WHITEPAPER.md`
 - Gibberlink glossary: `docs/GIBBERLINK_GLOSSARY.md`
 - Gibberlink_Glyph foundational note: `docs/GIBBERLINK_GLYPH_FOUNDATIONAL_NOTE.md`
@@ -124,6 +156,17 @@ Use the glossary as the canonical terminology map for Grenaprompt and FGP terms:
 
 ```text
 [INTENTION] -> [EMOTION] -> [GLYPH] -> EXECUTION
+```
+
+Expanded public documentation path:
+
+```text
+Human Request
+  -> Grenaprompt
+  -> FGP Governance Frame
+  -> GPL Execution Contract
+  -> GPV2 / GL / GL_G
+  -> NATIVE_FINAL
 ```
 
 ## Design Boundary
